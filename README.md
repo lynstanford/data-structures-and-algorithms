@@ -1,2 +1,2 @@
 # data-structures-and-algorithms
-Stanford University pseudo-code explaining memory storage for data and processing
+Stanford University course by Tim Roughgarden following examples using pseudo-code explaining data processing and memory storage.
